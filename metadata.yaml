@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38644'
     url: http://www.gutenberg.org/2009/agents/38644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37097#What-Works--Schools-Without-Drugs
 gutenberg_issued: '2011-08-15'
 gutenberg_type: Text
 identifiers:
