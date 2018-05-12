@@ -1,0 +1,28 @@
+_repo: What-Works--Schools-Without-Drugs_37097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Department of Education
+    aliases:
+    - Education, United States Department of
+    - United States. Dept. of Education
+    gutenberg_agent_id: '38644'
+    url: http://www.gutenberg.org/2009/agents/38644
+description: ''
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Drug abuse -- Prevention -- Study and teaching -- United States'
+- !lcsh 'Youth -- Drug use -- United States'
+title: 'What Works: Schools Without Drugs'
+url: http://www.gutenberg.org/ebooks/37097
